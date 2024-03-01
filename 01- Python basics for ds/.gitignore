@@ -1,0 +1,8 @@
+# ignore all logs
+*.log
+logs/
+
+.ipynb_checkpoints/
+
+*.zip
+*.csv
