@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/prg/DS/ML%20Flow/mlruns/621757552049520674/0c3f36ea4c984af9b83f38c2a8e8b53b/artifacts
+end_time: 1722316043068
+entry_point_name: ''
+experiment_id: '621757552049520674'
+lifecycle_stage: active
+run_id: 0c3f36ea4c984af9b83f38c2a8e8b53b
+run_name: Logistic Regression
+run_uuid: 0c3f36ea4c984af9b83f38c2a8e8b53b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722316042730
+status: 3
+tags: []
+user_id: Mehdi

@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/prg/DS/ML%20Flow/mlruns/438940951541879832/598f686a3bc14dffbb08e5e394303f29/artifacts
+end_time: 1722425735968
+entry_point_name: ''
+experiment_id: '438940951541879832'
+lifecycle_stage: active
+run_id: 598f686a3bc14dffbb08e5e394303f29
+run_name: CatBoost Classifier
+run_uuid: 598f686a3bc14dffbb08e5e394303f29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722425735695
+status: 3
+tags: []
+user_id: Mehdi

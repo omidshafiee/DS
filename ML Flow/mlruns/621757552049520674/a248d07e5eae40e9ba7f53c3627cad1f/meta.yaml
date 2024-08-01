@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/prg/DS/ML%20Flow/mlruns/621757552049520674/a248d07e5eae40e9ba7f53c3627cad1f/artifacts
+end_time: 1722235209609
+entry_point_name: ''
+experiment_id: '621757552049520674'
+lifecycle_stage: active
+run_id: a248d07e5eae40e9ba7f53c3627cad1f
+run_name: Session Initialized fd6e
+run_uuid: a248d07e5eae40e9ba7f53c3627cad1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722235183978
+status: 3
+tags: []
+user_id: Mehdi

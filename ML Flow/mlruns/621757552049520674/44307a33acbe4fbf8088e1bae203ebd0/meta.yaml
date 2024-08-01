@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/prg/DS/ML%20Flow/mlruns/621757552049520674/44307a33acbe4fbf8088e1bae203ebd0/artifacts
+end_time: 1722236077697
+entry_point_name: ''
+experiment_id: '621757552049520674'
+lifecycle_stage: active
+run_id: 44307a33acbe4fbf8088e1bae203ebd0
+run_name: Extra Trees Classifier
+run_uuid: 44307a33acbe4fbf8088e1bae203ebd0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722236077450
+status: 3
+tags: []
+user_id: Mehdi

@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/prg/DS/ML%20Flow/mlruns/621757552049520674/eb8b3dab39a24558814372c8a9800af3/artifacts
+end_time: 1722237020025
+entry_point_name: ''
+experiment_id: '621757552049520674'
+lifecycle_stage: active
+run_id: eb8b3dab39a24558814372c8a9800af3
+run_name: K Neighbors Classifier
+run_uuid: eb8b3dab39a24558814372c8a9800af3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722237019761
+status: 3
+tags: []
+user_id: Mehdi

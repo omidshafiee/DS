@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/prg/DS/ML%20Flow/mlruns/621757552049520674/00c6169b5c9e402d8733b623b2bfa0ec/artifacts
+end_time: 1722235450474
+entry_point_name: ''
+experiment_id: '621757552049520674'
+lifecycle_stage: active
+run_id: 00c6169b5c9e402d8733b623b2bfa0ec
+run_name: SVM - Linear Kernel
+run_uuid: 00c6169b5c9e402d8733b623b2bfa0ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722235450194
+status: 3
+tags: []
+user_id: Mehdi

@@ -1,0 +1,10 @@
+# ignore all logs
+*.log
+logs/
+
+.ipynb_checkpoints/*.*
+.__pycache__/*.*
+
+*.zip
+*.csv
+

@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/prg/DS/ML%20Flow/mlruns/438940951541879832/982df1a613f64683abb145623f1c1953/artifacts
+end_time: 1722425740119
+entry_point_name: ''
+experiment_id: '438940951541879832'
+lifecycle_stage: active
+run_id: 982df1a613f64683abb145623f1c1953
+run_name: Linear Discriminant Analysis
+run_uuid: 982df1a613f64683abb145623f1c1953
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722425739863
+status: 3
+tags: []
+user_id: Mehdi

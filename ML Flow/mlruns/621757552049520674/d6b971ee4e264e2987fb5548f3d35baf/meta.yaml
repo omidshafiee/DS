@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/prg/DS/ML%20Flow/mlruns/621757552049520674/d6b971ee4e264e2987fb5548f3d35baf/artifacts
+end_time: 1722422999398
+entry_point_name: ''
+experiment_id: '621757552049520674'
+lifecycle_stage: active
+run_id: d6b971ee4e264e2987fb5548f3d35baf
+run_name: Naive Bayes
+run_uuid: d6b971ee4e264e2987fb5548f3d35baf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722422999162
+status: 3
+tags: []
+user_id: Mehdi

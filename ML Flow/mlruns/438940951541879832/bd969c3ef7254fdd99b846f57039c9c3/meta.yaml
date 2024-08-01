@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/prg/DS/ML%20Flow/mlruns/438940951541879832/bd969c3ef7254fdd99b846f57039c9c3/artifacts
+end_time: 1722425737901
+entry_point_name: ''
+experiment_id: '438940951541879832'
+lifecycle_stage: active
+run_id: bd969c3ef7254fdd99b846f57039c9c3
+run_name: Extreme Gradient Boosting
+run_uuid: bd969c3ef7254fdd99b846f57039c9c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722425737550
+status: 3
+tags: []
+user_id: Mehdi

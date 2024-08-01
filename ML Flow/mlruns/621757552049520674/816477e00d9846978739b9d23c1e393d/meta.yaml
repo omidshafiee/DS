@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/prg/DS/ML%20Flow/mlruns/621757552049520674/816477e00d9846978739b9d23c1e393d/artifacts
+end_time: 1722237159109
+entry_point_name: ''
+experiment_id: '621757552049520674'
+lifecycle_stage: active
+run_id: 816477e00d9846978739b9d23c1e393d
+run_name: Ada Boost Classifier
+run_uuid: 816477e00d9846978739b9d23c1e393d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722237158835
+status: 3
+tags: []
+user_id: Mehdi

@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/prg/DS/ML%20Flow/mlruns/621757552049520674/8655ea6f99f34681ab422619b38c9527/artifacts
+end_time: 1722316043614
+entry_point_name: ''
+experiment_id: '621757552049520674'
+lifecycle_stage: active
+run_id: 8655ea6f99f34681ab422619b38c9527
+run_name: Gradient Boosting Classifier
+run_uuid: 8655ea6f99f34681ab422619b38c9527
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722316043271
+status: 3
+tags: []
+user_id: Mehdi
