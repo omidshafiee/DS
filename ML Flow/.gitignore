@@ -1,6 +1,7 @@
 # ignore all logs
 *.log
 logs/
+mlruns/
 
 .ipynb_checkpoints/*.*
 .__pycache__/*.*
