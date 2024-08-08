@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Prg/DS/MLFlow/MLFLow_Datacamp/mlruns/0/f335d0c15bd34348822391c9652626a2/artifacts
+end_time: 1723044843526
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f335d0c15bd34348822391c9652626a2
+run_name: orderly-hog-958
+run_uuid: f335d0c15bd34348822391c9652626a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723028366271
+status: 3
+tags: []
+user_id: Mehdi.Omidshafiee

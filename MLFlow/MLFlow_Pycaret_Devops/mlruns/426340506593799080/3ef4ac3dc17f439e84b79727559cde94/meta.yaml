@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Prg/DS/ML%20Flow/mlruns/426340506593799080/3ef4ac3dc17f439e84b79727559cde94/artifacts
+end_time: 1722608033971
+entry_point_name: ''
+experiment_id: '426340506593799080'
+lifecycle_stage: active
+run_id: 3ef4ac3dc17f439e84b79727559cde94
+run_name: CustomProbabilityThresholdClassifier
+run_uuid: 3ef4ac3dc17f439e84b79727559cde94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722608033728
+status: 3
+tags: []
+user_id: Mehdi.Omidshafiee

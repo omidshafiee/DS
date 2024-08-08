@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Prg/DS/ML%20Flow/mlruns/832739595971170875/c4154b403b954ed6bf92a08011af29b5/artifacts
+end_time: 1722633063399
+entry_point_name: ''
+experiment_id: '832739595971170875'
+lifecycle_stage: active
+run_id: c4154b403b954ed6bf92a08011af29b5
+run_name: Voting Classifier
+run_uuid: c4154b403b954ed6bf92a08011af29b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722633062492
+status: 3
+tags: []
+user_id: Mehdi.Omidshafiee

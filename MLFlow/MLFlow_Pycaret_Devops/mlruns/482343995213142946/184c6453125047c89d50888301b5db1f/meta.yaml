@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Prg/DS/ML%20Flow/mlruns/482343995213142946/184c6453125047c89d50888301b5db1f/artifacts
+end_time: 1722697869102
+entry_point_name: ''
+experiment_id: '482343995213142946'
+lifecycle_stage: active
+run_id: 184c6453125047c89d50888301b5db1f
+run_name: Random Forest Classifier
+run_uuid: 184c6453125047c89d50888301b5db1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722697858489
+status: 3
+tags: []
+user_id: Mehdi.Omidshafiee

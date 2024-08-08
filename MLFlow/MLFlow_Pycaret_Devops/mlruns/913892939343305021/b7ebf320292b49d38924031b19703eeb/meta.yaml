@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Prg/DS/ML%20Flow/mlruns/913892939343305021/b7ebf320292b49d38924031b19703eeb/artifacts
+end_time: 1722587292996
+entry_point_name: ''
+experiment_id: '913892939343305021'
+lifecycle_stage: active
+run_id: b7ebf320292b49d38924031b19703eeb
+run_name: Quadratic Discriminant Analysis
+run_uuid: b7ebf320292b49d38924031b19703eeb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722587292755
+status: 3
+tags: []
+user_id: Mehdi.Omidshafiee

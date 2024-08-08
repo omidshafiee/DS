@@ -1,0 +1,10 @@
+digest: 4236615b
+name: dataset
+profile: '{"num_rows": 1, "num_elements": 4}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "R&D Spend", "required": true},
+  {"type": "double", "name": "Administration", "required": true}, {"type": "double",
+  "name": "Marketing Spend", "required": true}, {"type": "integer", "name": "State",
+  "required": true}]}'
+source: '{"tags": {"mlflow.user": "Mehdi.Omidshafiee", "mlflow.source.name": "C:\\ProgramData\\anaconda3\\Lib\\site-packages\\ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

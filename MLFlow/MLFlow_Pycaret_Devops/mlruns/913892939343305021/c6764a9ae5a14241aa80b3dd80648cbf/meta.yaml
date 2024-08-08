@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Prg/DS/ML%20Flow/mlruns/913892939343305021/c6764a9ae5a14241aa80b3dd80648cbf/artifacts
+end_time: 1722587291787
+entry_point_name: ''
+experiment_id: '913892939343305021'
+lifecycle_stage: active
+run_id: c6764a9ae5a14241aa80b3dd80648cbf
+run_name: Linear Discriminant Analysis
+run_uuid: c6764a9ae5a14241aa80b3dd80648cbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722587291603
+status: 3
+tags: []
+user_id: Mehdi.Omidshafiee

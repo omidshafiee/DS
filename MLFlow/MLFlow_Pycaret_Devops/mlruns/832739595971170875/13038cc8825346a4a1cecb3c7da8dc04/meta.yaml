@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Prg/DS/ML%20Flow/mlruns/832739595971170875/13038cc8825346a4a1cecb3c7da8dc04/artifacts
+end_time: 1722619436864
+entry_point_name: ''
+experiment_id: '832739595971170875'
+lifecycle_stage: active
+run_id: 13038cc8825346a4a1cecb3c7da8dc04
+run_name: Ridge Classifier
+run_uuid: 13038cc8825346a4a1cecb3c7da8dc04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722619436644
+status: 3
+tags: []
+user_id: Mehdi.Omidshafiee

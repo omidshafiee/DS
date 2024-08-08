@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Prg/DS/ML%20Flow/mlruns/913892939343305021/b66bb7b589d940d8baa9c7116edd4857/artifacts
+end_time: 1722587290286
+entry_point_name: ''
+experiment_id: '913892939343305021'
+lifecycle_stage: active
+run_id: b66bb7b589d940d8baa9c7116edd4857
+run_name: Light Gradient Boosting Machine
+run_uuid: b66bb7b589d940d8baa9c7116edd4857
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722587290084
+status: 3
+tags: []
+user_id: Mehdi.Omidshafiee

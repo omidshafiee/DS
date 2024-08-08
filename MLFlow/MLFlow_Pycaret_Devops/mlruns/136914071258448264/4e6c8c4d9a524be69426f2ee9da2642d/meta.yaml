@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Prg/DS/ML%20Flow/mlruns/136914071258448264/4e6c8c4d9a524be69426f2ee9da2642d/artifacts
+end_time: 1722588315807
+entry_point_name: ''
+experiment_id: '136914071258448264'
+lifecycle_stage: active
+run_id: 4e6c8c4d9a524be69426f2ee9da2642d
+run_name: Dummy Classifier
+run_uuid: 4e6c8c4d9a524be69426f2ee9da2642d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722588315609
+status: 3
+tags: []
+user_id: Mehdi.Omidshafiee

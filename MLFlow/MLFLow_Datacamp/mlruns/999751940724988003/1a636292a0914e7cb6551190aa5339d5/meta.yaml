@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Prg/DS/MLFlow/MLFLow_Datacamp/mlruns/999751940724988003/1a636292a0914e7cb6551190aa5339d5/artifacts
+end_time: 1723024661608
+entry_point_name: ''
+experiment_id: '999751940724988003'
+lifecycle_stage: active
+run_id: 1a636292a0914e7cb6551190aa5339d5
+run_name: nimble-hog-623
+run_uuid: 1a636292a0914e7cb6551190aa5339d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723024650545
+status: 3
+tags: []
+user_id: Mehdi.Omidshafiee

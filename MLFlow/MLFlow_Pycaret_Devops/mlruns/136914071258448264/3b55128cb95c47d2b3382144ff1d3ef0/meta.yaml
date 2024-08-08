@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Prg/DS/ML%20Flow/mlruns/136914071258448264/3b55128cb95c47d2b3382144ff1d3ef0/artifacts
+end_time: 1722587535217
+entry_point_name: ''
+experiment_id: '136914071258448264'
+lifecycle_stage: active
+run_id: 3b55128cb95c47d2b3382144ff1d3ef0
+run_name: Decision Tree Classifier
+run_uuid: 3b55128cb95c47d2b3382144ff1d3ef0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722587535009
+status: 3
+tags: []
+user_id: Mehdi.Omidshafiee
