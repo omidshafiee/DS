@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1723199834640
+current_stage: Production
+description: null
+last_updated_timestamp: 1723199838089
+name: Insurance
+run_id: a647ff7b6c854059a5d16b366f05e278
+run_link: null
+source: file:///D:/Prg/DS/MLFlow/MLFLow_Datacamp/mlruns/0/a647ff7b6c854059a5d16b366f05e278/artifacts/model_2023
+status: READY
+status_message: null
+storage_location: file:///D:/Prg/DS/MLFlow/MLFLow_Datacamp/mlruns/0/a647ff7b6c854059a5d16b366f05e278/artifacts/model_2023
+user_id: null
+version: 2

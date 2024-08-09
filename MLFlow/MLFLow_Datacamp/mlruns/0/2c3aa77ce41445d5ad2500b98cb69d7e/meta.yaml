@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Prg/DS/MLFlow/MLFLow_Datacamp/mlruns/0/2c3aa77ce41445d5ad2500b98cb69d7e/artifacts
+end_time: 1723197907435
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2c3aa77ce41445d5ad2500b98cb69d7e
+run_name: blushing-whale-510
+run_uuid: 2c3aa77ce41445d5ad2500b98cb69d7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723196546637
+status: 3
+tags: []
+user_id: Mehdi.Omidshafiee
