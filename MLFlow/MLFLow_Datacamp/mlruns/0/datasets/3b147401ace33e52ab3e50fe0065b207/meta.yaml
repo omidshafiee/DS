@@ -1,0 +1,10 @@
+digest: '25739915'
+name: dataset
+profile: '{"num_rows": 1003, "num_elements": 5015}'
+schema: '{"mlflow_colspec": [{"type": "long", "name": "age", "required": true}, {"type":
+  "double", "name": "bmi", "required": true}, {"type": "long", "name": "children",
+  "required": true}, {"type": "integer", "name": "smoker", "required": true}, {"type":
+  "double", "name": "charges", "required": true}]}'
+source: '{"tags": {"mlflow.user": "Mehdi", "mlflow.source.name": "C:\\ProgramData\\anaconda3\\Lib\\site-packages\\ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code
